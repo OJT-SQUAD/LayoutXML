@@ -47,7 +47,7 @@
             android:layout_centerHorizontal="true"/>
 
         <EditText
-            android:id="@+id/editTextShopType"
+            android:id="@+id/editTextShopLocation"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:ems="15"
@@ -67,7 +67,7 @@
             android:textColor="#006400"
             android:hint="Enter username"
             android:layout_centerHorizontal="true"
-            android:layout_below="@id/editTextShopType"/>
+            android:layout_below="@id/editTextShopLocation"/>
 
         <EditText
             android:id="@+id/editTextPassword"
