@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "983553972522",
+    "firebase_url": "https://lemntelattendace.firebaseio.com",
+    "project_id": "lemntelattendace",
+    "storage_bucket": "lemntelattendace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983553972522:android:7a435173846da0950be653",
+        "android_client_info": {
+          "package_name": "com.example.scannerappdesign3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983553972522-4hb6cem6kt0iseevmbmkksjsvkjt95lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy_TqO71qbAa1WTJq0uvOyMF8-u7RvcLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983553972522-4hb6cem6kt0iseevmbmkksjsvkjt95lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
